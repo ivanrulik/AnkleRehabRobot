@@ -7,7 +7,7 @@ This Project aims to deliver a cheap and open-source rehabilitation robot for th
 </p>
 
 <p align="center">
-  <img src="docs/figs/3DModel.png">
+  <img src="docs/figs/3DModel.PNG">
   <br>
   <b>Figure: 3D Model of the Ankle Robot</b>
 </p>
