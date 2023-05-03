@@ -6,10 +6,17 @@ This Project aims to deliver a cheap and open-source rehabilitation robot for th
   <b>Figure: Rehab Ankle Python GUI</b>
 </p>
 
+## 3D Model of the Robot
 <p align="center">
   <img src="docs/figs/3DModel.PNG">
   <br>
   <b>Figure: 3D Model of the Ankle Robot</b>
+</p>
+
+<p align="center">
+  <img src="docs/figs/finalSetup1.jpg">
+  <br>
+  <b>Figure: Final Setup of Robot</b>
 </p>
 
 ## Components:
