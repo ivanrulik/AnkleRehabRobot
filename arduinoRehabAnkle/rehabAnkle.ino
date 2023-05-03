@@ -1,5 +1,4 @@
 /*
-   Course:  MECHENG 890
    Ankle Rehab Arduino Control Code
    
    This program applies position control to 3 DC motors 
